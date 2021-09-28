@@ -6,6 +6,11 @@
 Lógica de programação
 </p>
 <p align="center">
+  <b>Para visualizar o fluxograma</b><br>
+  1.<b> Abrir o projeto Fluxograma<br></b>
+  2.<b> Clicar em Fluxograma.drawio.png</b>
+</p>
+<p align="center">
 Descrevendo a sequência de passos lógicos necessários na criação de um <br> fluxograma representando o algoritimo que atenda os requisitos solicitados.
 </p>
 <p align="center">
